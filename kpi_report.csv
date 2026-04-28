@@ -1,0 +1,6 @@
+Ticker,Period,Last Data Point,Days Stale,Period Coverage (%),Completeness (%),Accuracy (%),Suspicious Spikes,Volume Outliers,Consistency
+VRTX,1y,2026-04-28,0,100.0,100.0,100.0,0,0,5/5 checks passed
+LULU,9mo,2026-04-28,0,100.0,100.0,100.0,0,0,5/5 checks passed
+ODFL,6mo,2026-04-28,0,100.0,100.0,100.0,0,0,5/5 checks passed
+ENPH,3mo,2026-04-28,0,100.0,100.0,100.0,1,0,5/5 checks passed
+DKNG,1mo,2026-04-28,0,100.0,100.0,100.0,0,0,5/5 checks passed
